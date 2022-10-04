@@ -1,17 +1,2458 @@
 statisticalID,name,partOf,code,physicalType
-oEBf29y8JP8,Ibombo,Location/AWn3s2RqgAN,ADMIN_STRUCTURE,Jurisdiction
-HPGiE9Jjh2r,Isamba,Location/AWn3s2RqgAN,ADMIN_STRUCTURE,Jurisdiction
-BxrIbNW7f3K,Itambo,Location/AWn3s2RqgAN,ADMIN_STRUCTURE,Jurisdiction
-SQT8xjbvWwf,Ezhi,Location/AWn3s2RqgAN,ADMIN_STRUCTURE,Jurisdiction
-ntoX1PkiWri,Ilanga,Location/KozcEjeTyuD,ADMIN_STRUCTURE,Jurisdiction
-SvFNQpplnch,Irundu,Location/KozcEjeTyuD,ADMIN_STRUCTURE,Jurisdiction
-NLjvK1QsrN3,Zobwe,Location/KozcEjeTyuD,ADMIN_STRUCTURE,Jurisdiction
-hywxVKv48Xp,Afue,Location/KozcEjeTyuD,ADMIN_STRUCTURE,Jurisdiction
-QTtxiWj8ONP,Embe,Location/B1u1bVtIA92,ADMIN_STRUCTURE,Jurisdiction
-Oapn6R4rt3D,Ienge,Location/B1u1bVtIA92,ADMIN_STRUCTURE,Jurisdiction
-idR0pJWLqcR,Funabuli,Location/B1u1bVtIA92,ADMIN_STRUCTURE,Jurisdiction
-jCJxK8sFH40,Pili,Location/B1u1bVtIA92,ADMIN_STRUCTURE,Jurisdiction
-ydyJb1RAy4U,Ama,Location/dbTLdTi7s8F,ADMIN_STRUCTURE,Jurisdiction
-nO68NTtcdw2,Nsali,Location/dbTLdTi7s8F,ADMIN_STRUCTURE,Jurisdiction
-FuvOOwvBw0p,Soka,Location/dbTLdTi7s8F,ADMIN_STRUCTURE,Jurisdiction
-R22tRIhdm5Y,Chibiya,Location/dbTLdTi7s8F,ADMIN_STRUCTURE,Jurisdiction
+MX31001,Abalá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX05001,Abasolo,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX11001,Abasolo,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX19001,Abasolo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX28001,Abasolo,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX20001,Abejones,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07001,Acacoyagua,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX21001,Acajete,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30001,Acajete,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07002,Acala,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX11002,Acámbaro,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX15001,Acambay de Ruíz Castañeda,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX31002,Acanceh,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX07003,Acapetahua,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX18001,Acaponeta,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX12001,Acapulco de Juárez,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX21002,Acateno,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12076,Acatepec,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX14001,Acatic,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX13001,Acatlán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21003,Acatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30002,Acatlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14002,Acatlán de Juárez,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20002,Acatlán de Pérez Figueroa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21004,Acatzingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13002,Acaxochitlán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30003,Acayucan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15002,Acolman,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX26001,Aconchi,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX21005,Acteopan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13003,Actopan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30004,Actopan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX29022,Acuamanala de Miguel Hidalgo,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX16001,Acuitzio,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30005,Acula,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15003,Aculco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30006,Acultzingo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX05002,Acuña,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX13004,Agua Blanca de Iturbide,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30204,Agua Dulce,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX26002,Agua Prieta,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX19002,Agualeguas,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX01001,Aguascalientes,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX16002,Aguililla,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX25001,Ahome,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX18002,Ahuacatlán,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX21006,Ahuacatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12002,Ahuacuotzingo,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX24001,Ahualulco,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX14003,Ahualulco de Mercado,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX21007,Ahuatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21008,Ahuazotepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21009,Ahuehuetitla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX08001,Ahumada,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX13005,Ajacuba,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21010,Ajalpan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12003,Ajuchitlán del Progreso,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX31003,Akil,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX30160,Álamo Temapache,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX26003,Alamos,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX24002,Alaquines,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX21011,Albino Zertuche,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12004,Alcozauca de Guerrero,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX07113,Aldama,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX08002,Aldama,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX28002,Aldama,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX13006,Alfajayucan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21012,Aljojuca,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX05003,Allende,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX08003,Allende,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX19004,Allende,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX13007,Almoloya,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX15004,Almoloya de Alquisiras,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15005,Almoloya de Juárez,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15006,Almoloya del Río,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30008,Alpatláhuac,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12005,Alpoyeca,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX28003,Altamira,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX07004,Altamirano,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX26004,Altar,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX21013,Altepexi,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30009,Alto Lucero de Gutiérrez Barrios,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30010,Altotonga,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30011,Alvarado,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX09010,Álvaro Obregón,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX16003,Álvaro Obregón,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX14004,Amacueca,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX17001,Amacuzac,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX15007,Amanalco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07005,Amatán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07006,Amatenango de la Frontera,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07007,Amatenango del Valle,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15008,Amatepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14005,Amatitán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30012,Amatitlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX18003,Amatlán de Cañas,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX30014,Amatlán de los Reyes,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX29001,Amaxac de Guerrero,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX22001,Amealco de Bonfil,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX14006,Ameca,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15009,Amecameca,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21014,Amixtlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21015,Amozoc,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX19005,Anáhuac,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX16004,Angamacutiro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16005,Angangueo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX07008,Angel Albino Corzo,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30015,Angel R. Cabada,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX25002,Angostura,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX20174,Ánimas Trujano,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX28004,Antiguo Morelos,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX13008,Apan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX11004,Apaseo el Alto,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX11005,Apaseo el Grande,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX16006,Apatzingán,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX15010,Apaxco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX12006,Apaxtla,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30017,Apazapan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX29002,Apetatitlán de Antonio Carvajal,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX29005,Apizaco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX19006,Apodaca,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX16007,Aporo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX32001,Apozol,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX32002,Apulco,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX16008,Aquila,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30018,Aquila,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX08004,Aquiles Serdán,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX24003,Aquismón,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX21016,Aquixtla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX19007,Aramberri,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX14008,Arandas,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX12007,Arcelia,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX16009,Ario,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX26005,Arivechi,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX26006,Arizpe,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX24004,Armadillo de los Infante,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX06001,Armería,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX07009,Arriaga,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX22003,Arroyo Seco,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX05004,Arteaga,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX16010,Arteaga,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX08005,Ascensión,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX01002,Asientos,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX30019,Astacinga,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20003,Asunción Cacalotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20004,Asunción Cuyotepeji,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20005,Asunción Ixtaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20006,Asunción Nochixtlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20007,Asunción Ocotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20008,Asunción Tlacolulita,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11006,Atarjea,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX14010,Atemajac de Brizuela,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX21017,Atempan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12008,Atenango del Río,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX15011,Atenco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14011,Atengo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14012,Atenguillo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX21018,Atexcal,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX26007,Atil,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX13010,Atitalaquia,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX15012,Atizapán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15013,Atizapán de Zaragoza,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15014,Atlacomulco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30020,Atlahuilco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12009,Atlamajalcingo del Monte,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX29003,Atlangatepec,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX13011,Atlapexco,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX17002,Atlatlahucan,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX15015,Atlautla,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21080,Atlequizayan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21019,Atlixco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12010,Atlixtac,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX29004,Atltzayanca,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX32003,Atolinga,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX13013,Atotonilco de Tula,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX14013,Atotonilco el Alto,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX13012,Atotonilco el Grande,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX14014,Atoyac,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30021,Atoyac,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12011,Atoyac de Álvarez,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX21020,Atoyatempan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30022,Atzacan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21021,Atzala,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30023,Atzalan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21022,Atzitzihuacán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21023,Atzitzintla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14015,Autlán de Navarro,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15016,Axapusco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX17003,Axochiapan,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX24053,Axtla de Terrazas,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX21024,Axutla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30025,Ayahualulco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX17004,Ayala,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX15017,Ayapango,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20398,Ayoquezco de Aldama,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14016,Ayotlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX21025,Ayotoxco de Guerrero,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20009,Ayotzintepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14017,Ayutla,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX12012,Ayutla de los Libres,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX09002,Azcapotzalco,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX12013,Azoyú,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX31004,Baca,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX26008,Bacadéhuachi,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX23010,Bacalar,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX26009,Bacanora,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX26010,Bacerac,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX08006,Bachíniva,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX26011,Bacoachi,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX26012,Bácum,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX25003,Badiraguato,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX18020,Bahía de Banderas,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX27001,Balancán,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX08007,Balleza,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX26013,Banámichi,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX30026,Banderilla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX08008,Batopilas,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX26014,Baviácora,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX26015,Bavispe,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX07010,Bejucal de Ocampo,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07011,Bella Vista,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07114,Benemérito de las Américas,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX09014,Benito Juárez,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX12014,Benito Juárez,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX23005,Benito Juárez,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX26071,Benito Juárez,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX29045,Benito Juárez,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX30027,Benito Juárez,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX32004,Benito Juárez,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX26016,Benjamín Hill,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX07012,Berriozábal,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30028,Boca del Río,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07013,Bochil,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX08009,Bocoyna,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX31005,Bokobá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX14019,Bolaños,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX16011,Briseñas,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX31006,Buctzotz,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX08010,Buenaventura,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX16012,Buenavista,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX12015,Buenavista de Cuéllar,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX28005,Burgos,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX19008,Bustamante,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX28006,Bustamante,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX14020,Cabo Corrientes,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX26017,Caborca,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX07015,Cacahoatán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX31007,Cacalchén,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX22004,Cadereyta de Montes,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX19009,Cadereyta Jiménez,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX26018,Cajeme,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX04010,Calakmul,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX30029,Calcahualco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX32005,Calera,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX20011,Calihualá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15018,Calimaya,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX04001,Calkiní,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX13014,Calnali,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX31008,Calotmul,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX21026,Calpan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29006,Calpulalpan,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21027,Caltepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX01003,Calvillo,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX08011,Camargo,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX28007,Camargo,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX30007,Camarón de Tejeda,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30030,Camerino Z. Mendoza,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21028,Camocuautla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX04002,Campeche,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX21099,Cañada Morelos,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14117,Cañadas de Obregón,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX26019,Cananea,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX10001,Canatlán,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX05005,Candela,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX04011,Candelaria,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX20012,Candelaria Loxicha,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10002,Canelas,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX32006,Cañitas de Felipe Pescador,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX31009,Cansahcab,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31010,Cantamayec,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX20247,Capulálpam de Méndez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15019,Capulhuac,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX16013,Carácuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX26020,Carbó,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX24005,Cárdenas,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX27002,Cárdenas,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX13015,Cardonal,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX08012,Carichí,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX30208,Carlos A. Carrillo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX04003,Carmen,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX30031,Carrillo Puerto,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX28008,Casas,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX08013,Casas Grandes,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX14021,Casimiro Castillo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX05006,Castaños,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX30157,Castillo de Teayo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07016,Catazajá,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30032,Catemaco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24006,Catorce,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX21029,Caxhuacan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30033,Cazones de Herrera,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24007,Cedral,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX11007,Celaya,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX31011,Celestún,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31012,Cenotillo,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX27003,Centla,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX27004,Centro,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX19011,Cerralvo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX24008,Cerritos,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX30034,Cerro Azul,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24009,Cerro de San Pedro,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX30054,Chacaltianguis,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31016,Chacsinkín,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX20025,Chahuites,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20026,Chalcatongo de Hidalgo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21045,Chalchicomula de Sesma,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07022,Chalchihuitán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX32009,Chalchihuites,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX15025,Chalco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30055,Chalma,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX04004,Champotón,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX07023,Chamula,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07024,Chanal,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX31017,Chankom,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX15026,Chapa de Mota,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX31018,Chapab,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX14030,Chapala,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX13017,Chapantongo,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21046,Chapulco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13018,Chapulhuacán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX07025,Chapultenango,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15027,Chapultepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX16021,Charapan,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX24015,Charcas,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX16022,Charo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16023,Chavinda,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX31019,Chemax,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX07026,Chenalhó,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX16024,Cherán,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX07027,Chiapa de Corzo,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07028,Chiapilla,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX29010,Chiautempan,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX15028,Chiautla,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21047,Chiautla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21048,Chiautzingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX31021,Chichimilá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX21050,Chichiquila,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07029,Chicoasén,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15029,Chicoloapan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07030,Chicomuselo,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30056,Chiconamel,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15030,Chiconcuac,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21049,Chiconcuautla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30057,Chiconquiaco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30058,Chicontepec,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31020,Chicxulub Pueblo,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX21051,Chietla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21052,Chigmecatitlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21053,Chignahuapan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21054,Chignautla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX08019,Chihuahua,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX31022,Chikindzonot,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX21055,Chila,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21056,Chila de la Sal,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12028,Chilapa de Álvarez,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX16025,Chilchota,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX21058,Chilchotla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13019,Chilcuautla,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX07031,Chilón,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX12029,Chilpancingo de los Bravo,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX15031,Chimalhuacán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14031,Chimaltitán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX19013,China,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX30059,Chinameca,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30060,Chinampa de Gorostiza,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21059,Chinantla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX16026,Chinicuila,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX08020,Chínipas,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX20027,Chiquihuitlán de Benito Juárez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14032,Chiquilistlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30062,Chocamán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31023,Chocholá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX25007,Choix,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX30063,Chontla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16027,Chucándiro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30064,Chumatlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31024,Chumayel,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX16028,Churintzio,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16029,Churumuco,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX19012,Ciénega de Flores,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX20013,Ciénega de Zimatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14022,Cihuatlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX07017,Cintalapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30035,Citlaltépetl,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24010,Ciudad del Maíz,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX24011,Ciudad Fernández,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20014,Ciudad Ixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX28009,Ciudad Madero,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX24013,Ciudad Valles,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX15020,Coacalco de Berriozábal,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30036,Coacoatzintla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16014,Coahuayana,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX12016,Coahuayutla de José María Izazaga,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30037,Coahuitlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16015,Coalcomán de Vázquez Pallares,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX07018,Coapilla,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX20015,Coatecas Altas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21030,Coatepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30038,Coatepec,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15021,Coatepec Harinas,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX17005,Coatlán del Río,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX30039,Coatzacoalcos,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21031,Coatzingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30040,Coatzintla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12078,Cochoapa el Grande,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX15022,Cocotitlán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX12017,Cocula,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX14024,Cocula,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX16016,Coeneo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30041,Coetzala,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21032,Cohetzala,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21033,Cohuecan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20016,Coicoyán de las Flores,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX16074,Cojumatlán de Régules,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX06002,Colima,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX30042,Colipa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX22005,Colón,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX14025,Colotlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX06003,Comala,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX27005,Comalcalco,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX30043,Comapa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07019,Comitán de Domínguez,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX03001,Comondú,Location/MX03,ADMIN_STRUCTURE,Jurisdiction
+MX11009,Comonfort,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX18004,Compostela,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX20018,Concepción Buenavista,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14026,Concepción de Buenos Aires,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX32007,Concepción del Oro,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX20019,Concepción Pápalo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX25004,Concordia,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX10003,Coneto de Comonfort,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX31013,Conkal,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX20020,Constancia del Rosario,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX16017,Contepec,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX29018,Contla de Juan Cuamatzi,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX07021,Copainalá,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX12018,Copala,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX12019,Copalillo,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX12020,Copanatoyac,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX16018,Copándaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX06004,Coquimatlán,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX30044,Córdoba,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX08014,Coronado,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX21034,Coronango,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX11010,Coroneo,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX22006,Corregidora,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX11011,Cortazar,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX25005,Cosalá,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX30045,Cosamaloapan de Carpio,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30046,Cosautlán de Carvajal,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30047,Coscomatepec,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX01004,Cosío,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX20021,Cosolapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30048,Cosoleacaque,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20022,Cosoltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30049,Cotaxtla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16019,Cotija,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX21035,Coxcatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX24014,Coxcatlán,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX30050,Coxquihui,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX08015,Coyame del Sotol,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX09003,Coyoacán,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX21036,Coyomeapan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15023,Coyotepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21037,Coyotepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12021,Coyuca de Benítez,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX12022,Coyuca de Catalán,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30051,Coyutla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX23001,Cozumel,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX28010,Cruillas,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX09004,Cuajimalpa de Morelos,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX12023,Cuajinicuilapa,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX12024,Cualác,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX29008,Cuapiaxtla,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21038,Cuapiaxtla de Madero,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX05007,Cuatro Ciénegas,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX06005,Cuauhtémoc,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX08017,Cuauhtémoc,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX09015,Cuauhtémoc,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX32008,Cuauhtémoc,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX21039,Cuautempan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12025,Cuautepec,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX13016,Cuautepec de Hinojosa,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21040,Cuautinchán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15024,Cuautitlán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14027,Cuautitlán de García Barragán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15121,Cuautitlán Izcalli,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14028,Cuautla,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX17006,Cuautla,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21041,Cuautlancingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29009,Cuaxomulco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21042,Cuayuca de Andrade,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX26022,Cucurpe,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX10004,Cuencamé,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX11012,Cuerámaro,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX17007,Cuernavaca,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX12026,Cuetzala del Progreso,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX21043,Cuetzalan del Progreso,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30052,Cuichapa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20023,Cuilápam de Guerrero,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30053,Cuitláhuac,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16020,Cuitzeo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX25006,Culiacán,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX26023,Cumpas,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX31014,Cuncunul,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX27006,Cunduacán,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX14029,Cuquío,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX08018,Cusihuiriachi,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX12027,Cutzamala de Pinzón,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX20024,Cuyamecalco Villa de Zaragoza,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21044,Cuyoaco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX31015,Cuzamá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX14033,Degollado,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX18009,Del Nayar,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX08021,Delicias,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX26024,Divisaderos,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX19014,Doctor Arroyo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX19015,Doctor Coss,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX19016,Doctor González,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX11013,Doctor Mora,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX11014,Dolores Hidalgo Cuna de la Independencia Nacional,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX21060,Domingo Arenas,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15032,Donato Guerra,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX08022,Dr. Belisario Domínguez,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX10005,Durango,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX31025,Dzán,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31026,Dzemul,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31027,Dzidzantún,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31028,Dzilam de Bravo,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31029,Dzilam González,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31030,Dzitás,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31031,Dzoncauich,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX24016,Ebano,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX15033,Ecatepec de Morelos,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15034,Ecatzingo,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX16030,Ecuandureo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX12075,Eduardo Neri,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX14034,Ejutla,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX13009,El Arenal,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX14009,El Arenal,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20010,El Barrio de la Soledad,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07014,El Bosque,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX19010,El Carmen,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX29007,El Carmen Tequexquitla,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20030,El Espinal,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX25010,El Fuerte,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX14037,El Grullo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30205,El Higo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14054,El Limón,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX01010,El Llano,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX28021,El Mante,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX22011,El Marqués,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX24058,El Naranjo,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX10018,El Oro,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX15064,El Oro,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX32015,El Plateado de Joaquín Amaro,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX07070,El Porvenir,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX14070,El Salto,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX32041,El Salvador,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX08064,El Tule,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX25008,Elota,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX13020,Eloxochitlán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21061,Eloxochitlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20029,Eloxochitlán de Flores Magón,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13021,Emiliano Zapata,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX17008,Emiliano Zapata,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX27007,Emiliano Zapata,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX29046,Emiliano Zapata,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX30065,Emiliano Zapata,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX26025,Empalme,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX14035,Encarnación de Díaz,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX02001,Ensenada,Location/MX02,ADMIN_STRUCTURE,Jurisdiction
+MX21062,Epatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13022,Epazoyucan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX16031,Epitacio Huerta,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16032,Erongarícuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX04009,Escárcega,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX05008,Escobedo,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX25009,Escuinapa,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX07032,Escuintla,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX29012,Españita,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21063,Esperanza,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30066,Espinal,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31032,Espita,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX26026,Etchojoa,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX14036,Etzatlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX22007,Ezequiel Montes,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX23002,Felipe Carrillo Puerto,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX30067,Filomeno Mata,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12030,Florencio Villarreal,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30068,Fortín,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX05009,Francisco I. Madero,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX13023,Francisco I. Madero,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX07033,Francisco León,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX21064,Francisco Z. Mena,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX32010,Fresnillo,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX20032,Fresnillo de Trujano,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX05010,Frontera,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX07034,Frontera Comalapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07035,Frontera Hidalgo,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX26027,Fronteras,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX16033,Gabriel Zamora,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX08023,Galeana,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX19017,Galeana,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX19018,García,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX32012,Genaro Codina,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX19020,General Bravo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX12031,General Canuto A. Neri,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX05011,General Cepeda,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX32013,General Enrique Estrada,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX19021,General Escobedo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX21065,General Felipe Ángeles,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX32014,General Francisco R. Murguía,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX12032,General Heliodoro Castillo,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX32016,General Pánfilo Natera,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX26070,General Plutarco Elías Calles,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX10006,General Simón Bolívar,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX19022,General Terán,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX19023,General Treviño,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX19024,General Zaragoza,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX19025,General Zuazua,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX08025,Gómez Farías,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX14079,Gómez Farías,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX28011,Gómez Farías,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX10007,Gómez Palacio,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX28012,González,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX08026,Gran Morelos,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX26028,Granados,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX14038,Guachinango,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX08027,Guachochi,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX14039,Guadalajara,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX24017,Guadalcázar,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX08028,Guadalupe,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX19026,Guadalupe,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX21066,Guadalupe,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX32017,Guadalupe,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX20034,Guadalupe de Ramírez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20033,Guadalupe Etla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10008,Guadalupe Victoria,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX21067,Guadalupe Victoria,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX08029,Guadalupe y Calvo,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX10009,Guanaceví,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX11015,Guanajuato,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX25011,Guasave,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX26029,Guaymas,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX08030,Guazapares,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX20035,Guelatao de Juárez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX28013,Güémez,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX05012,Guerrero,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX08031,Guerrero,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX28014,Guerrero,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX20036,Guevea de Humboldt,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX09005,Gustavo A. Madero,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX28015,Gustavo Díaz Ordaz,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX30069,Gutiérrez Zamora,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31033,Halachó,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX04005,Hecelchakán,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX21068,Hermenegildo Galeana,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX26030,Hermosillo,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX20028,Heroica Ciudad de Ejutla de Crespo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20039,Heroica Ciudad de Huajuapan de León,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20043,Heroica Ciudad de Juchitán de Zaragoza,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20397,Heroica Ciudad de Tlaxiaco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20549,Heroica Villa Tezoatlán de Segura y Luna,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX05013,Hidalgo,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX10010,Hidalgo,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX16034,Hidalgo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX19047,Hidalgo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX28016,Hidalgo,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX08032,Hidalgo del Parral,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX30070,Hidalgotitlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX19028,Higueras,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX31034,Hocabá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31035,Hoctún,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31036,Homún,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX21057,Honey,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX04006,Hopelchén,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX14040,Hostotipaquillo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX26031,Huachinera,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX18005,Huajicori,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX19029,Hualahuises,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX29013,Huamantla,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX12033,Huamuxtitlán,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX16036,Huandacareo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX11016,Huanímaro,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX16037,Huaniqueo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX32018,Huanusco,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX21069,Huaquechula,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX26032,Huásabas,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX13024,Huasca de Ocampo,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX26033,Huatabampo,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX21070,Huatlatlauca,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30071,Huatusco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21071,Huauchinango,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20040,Huautepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13025,Huautla,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20041,Huautla de Jiménez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30072,Huayacocotla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX13026,Huazalingo,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX07037,Huehuetán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX13027,Huehuetla,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21072,Huehuetla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX24018,Huehuetlán,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX21073,Huehuetlán el Chico,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21150,Huehuetlán el Grande,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15035,Huehuetoca,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX08033,Huejotitán,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX21074,Huejotzingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14041,Huejúcar,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14042,Huejuquilla el Alto,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX13028,Huejutla de Reyes,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX26034,Huépac,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX16038,Huetamo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX21075,Hueyapan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30073,Hueyapan de Ocampo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX29014,Hueyotlipan,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX15036,Hueypoxtla,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21076,Hueytamalco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21077,Hueytlalpan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX31037,Huhí,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX13029,Huichapan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30074,Huiloapan de Cuauhtémoc,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX27008,Huimanguillo,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX22008,Huimilpan,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX16039,Huiramba,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX07039,Huitiupán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX17009,Huitzilac,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21078,Huitzilan de Serdán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21079,Huitziltepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12034,Huitzuco de los Figueroa,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX15037,Huixquilucan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07038,Huixtán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07040,Huixtla,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX31038,Hunucmá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX30075,Ignacio de la Llave,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX08034,Ignacio Zaragoza,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX12035,Iguala de la Independencia,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX12036,Igualapa,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30076,Ilamatlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12081,Iliatenco,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX26035,Imuris,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX16040,Indaparapeo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX10011,Indé,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX11017,Irapuato,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX16041,Irimbo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX15038,Isidro Fabela,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30077,Isla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX23003,Isla Mujeres,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX19030,Iturbide,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX21081,Ixcamilpa de Guerrero,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21082,Ixcaquixtla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12037,Ixcateopan de Cuauhtémoc,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30078,Ixcatepec,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30079,Ixhuacán de los Reyes,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07042,Ixhuatán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30083,Ixhuatlán de Madero,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30080,Ixhuatlán del Café,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30082,Ixhuatlán del Sureste,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30081,Ixhuatlancillo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31039,Ixil,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX30084,Ixmatlahuacan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX13030,Ixmiquilpan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20065,Ixpantepec Nieves,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21083,Ixtacamaxtitlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07043,Ixtacomitán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX29015,Ixtacuixtla de Mariano Matamoros,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX30085,Ixtaczoquitlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07044,Ixtapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15039,Ixtapaluca,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15040,Ixtapan de la Sal,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15041,Ixtapan del Oro,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07045,Ixtapangajoya,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX29016,Ixtenco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21084,Ixtepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15042,Ixtlahuaca,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX06006,Ixtlahuacán,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX14044,Ixtlahuacán de los Membrillos,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14045,Ixtlahuacán del Río,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX16042,Ixtlán,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX20042,Ixtlán de Juárez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX18006,Ixtlán del Río,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX31040,Izamal,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX09006,Iztacalco,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX09007,Iztapalapa,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX21085,Izúcar de Matamoros,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13031,Jacala de Ledezma,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX16043,Jacona,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX18007,Jala,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX30086,Jalacingo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX27009,Jalapa,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX30088,Jalcomulco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14046,Jalostotitlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX32019,Jalpa,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX27010,Jalpa de Méndez,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX21086,Jalpan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX22009,Jalpan de Serra,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX15044,Jaltenco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30089,Jáltipan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX13032,Jaltocán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30090,Jamapa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14047,Jamay,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX08035,Janos,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX17010,Jantetelco,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX11018,Jaral del Progreso,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX28017,Jaumave,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX11019,Jerécuaro,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX32020,Jerez,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX30091,Jesús Carranza,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX01005,Jesús María,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX14048,Jesús María,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15045,Jilotepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30093,Jilotepec,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14049,Jilotlán de los Dolores,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15046,Jilotzingo,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX05014,Jiménez,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX08036,Jiménez,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX16044,Jiménez,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX28018,Jiménez,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX32021,Jiménez del Teul,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX16045,Jiquilpan,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX07046,Jiquipilas,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15047,Jiquipilco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07047,Jitotol,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX17011,Jiutepec,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX14050,Jocotepec,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15048,Jocotitlán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX17012,Jojutla,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21087,Jolalpan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX17013,Jonacatepec,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21088,Jonotla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX27011,Jonuta,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX21089,Jopala,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15049,Joquicingo,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30169,José Azueta,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12079,José Joaquín de Herrera,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX23006,José María Morelos,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX16113,José Sixto Verduzco,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX32022,Juan Aldama,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX21090,Juan C. Bonilla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21091,Juan Galindo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21092,Juan N. Méndez,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12039,Juan R. Escudero,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30094,Juan Rodríguez Clara,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14051,Juanacatlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX05015,Juárez,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX07048,Juárez,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX08037,Juárez,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX16046,Juárez,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX19031,Juárez,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX13033,Juárez Hidalgo,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX32023,Juchipila,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX30095,Juchique de Ferrer,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12080,Juchitán,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX15050,Juchitepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14052,Juchitlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX08038,Julimes,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX16047,Jungapeo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX31041,Kanasín,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31042,Kantunil,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31043,Kaua,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31044,Kinchil,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31045,Kopomá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX30016,La Antigua,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14018,La Barca,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX26021,La Colorada,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX20017,La Compañía,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07020,La Concordia,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX08016,La Cruz,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX07036,La Grandeza,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX16035,La Huacana,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX14043,La Huerta,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX07041,La Independencia,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07050,La Libertad,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX09008,La Magdalena Contreras,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX29048,La Magdalena Tlaltelulco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21095,La Magdalena Tlatlauquitepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14057,La Manzanilla de la Paz,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX13040,La Misión,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX03003,La Paz,Location/MX03,ADMIN_STRUCTURE,Jurisdiction
+MX15070,La Paz,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20069,La Pe,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30127,La Perla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16069,La Piedad,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX20076,La Reforma,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20556,La Trinidad Vista Hermosa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07099,La Trinitaria,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX12068,La Unión de Isidoro Montes de Oca,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX18019,La Yesca,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX21093,Lafragua,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14053,Lagos de Moreno,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX16048,Lagunillas,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX24019,Lagunillas,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX05016,Lamadrid,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX19032,Lampazos de Naranjo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX22010,Landa de Matamoros,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX30096,Landero y Coss,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07049,Larráinzar,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30061,Las Choapas,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07052,Las Margaritas,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30107,Las Minas,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07075,Las Rosas,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30132,Las Vigas de Ramírez,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16052,Lázaro Cárdenas,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX23007,Lázaro Cárdenas,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX29047,Lázaro Cárdenas,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX11020,León,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX12040,Leonardo Bravo,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX10012,Lerdo,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX30097,Lerdo de Tejada,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15051,Lerma,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21094,Libres,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX19033,Linares,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX28019,Llera,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX13034,Lolotla,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20044,Loma Bonita,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX08039,López,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX03009,Loreto,Location/MX03,ADMIN_STRUCTURE,Jurisdiction
+MX32024,Loreto,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX19003,Los Aldamas,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX03008,Los Cabos,Location/MX03,ADMIN_STRUCTURE,Jurisdiction
+MX19027,Los Herreras,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX19042,Los Ramones,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX16075,Los Reyes,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30137,Los Reyes,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21118,Los Reyes de Juárez,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX32025,Luis Moya,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX15123,Luvianos,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX27012,Macuspana,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX08040,Madera,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX16049,Madero,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX14055,Magdalena,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX26036,Magdalena,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX30098,Magdalena,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20045,Magdalena Apasco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20046,Magdalena Jaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20048,Magdalena Mixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20049,Magdalena Ocotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20050,Magdalena Peñasco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20051,Magdalena Teitipac,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20052,Magdalena Tequisistlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20053,Magdalena Tlacotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20562,Magdalena Yodocono de Porfirio Díaz,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20054,Magdalena Zahuatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX08041,Maguarichi,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX28020,Mainero,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX15052,Malinalco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX12041,Malinaltepec,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30099,Maltrata,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31046,Mama,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31047,Maní,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX30100,Manlio Fabio Altamirano,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX08042,Manuel Benavides,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX11008,Manuel Doblado,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX06007,Manzanillo,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX07051,Mapastepec,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX10013,Mapimí,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX16050,Maravatío,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX07115,Maravilla Tenejapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX16051,Marcos Castellanos,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30101,Mariano Escobedo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX19034,Marín,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX20055,Mariscala de Juárez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX12077,Marquelia,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX07116,Marqués de Comillas,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30102,Martínez de la Torre,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12042,Mártir de Cuilapan,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX20056,Mártires de Tacubaya,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14058,Mascota,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX08043,Matachí,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX05017,Matamoros,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX08044,Matamoros,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX28022,Matamoros,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX24020,Matehuala,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20057,Matías Romero Avendaño,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24057,Matlapa,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX31048,Maxcanú,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31049,Mayapán,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX14059,Mazamitla,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX07053,Mazapa de Madero,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX32026,Mazapil,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX21096,Mazapiltepec de Juárez,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07054,Mazatán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX26037,Mazatán,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX29017,Mazatecochco de José María Morelos,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX17014,Mazatepec,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX25012,Mazatlán,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX20058,Mazatlán Villa de Flores,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30103,Mecatlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30104,Mecayapan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30105,Medellín,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15053,Melchor Ocampo,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX19035,Melchor Ocampo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX32027,Melchor Ocampo,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX28023,Méndez,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX08045,Meoqui,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX31050,Mérida,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX20037,Mesones Hidalgo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07055,Metapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX13035,Metepec,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX15054,Metepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX12043,Metlatónoc,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX13037,Metztitlán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX02002,Mexicali,Location/MX02,ADMIN_STRUCTURE,Jurisdiction
+MX15055,Mexicaltzingo,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX24021,Mexquitic de Carmona,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX14060,Mexticacán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX10014,Mezquital,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX32028,Mezquital del Oro,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX14061,Mezquitic,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX17015,Miacatlán,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX30106,Miahuatlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20059,Miahuatlán de Porfirio Díaz,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX28024,Mier,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX19036,Mier y Noriega,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX28025,Miguel Alemán,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX32029,Miguel Auza,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX09016,Miguel Hidalgo,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX09009,Milpa Alta,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX19037,Mina,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX06008,Minatitlán,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX30108,Minatitlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX13051,Mineral de la Reforma,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX13038,Mineral del Chico,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX13039,Mineral del Monte,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX28026,Miquihuana,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX30109,Misantla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07056,Mitontic,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX20060,Mixistlán de la Reforma,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13041,Mixquiahuala de Juárez,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21097,Mixtla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30110,Mixtla de Altamirano,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14062,Mixtlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX12044,Mochitlán,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX31051,Mocochá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX25013,Mocorito,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX24022,Moctezuma,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX26038,Moctezuma,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX13042,Molango de Escamilla,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21098,Molcaxac,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30111,Moloacán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX32030,Momax,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX05018,Monclova,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX20061,Monjas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX32031,Monte Escobedo,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX07117,Montecristo de Guerrero,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX19038,Montemorelos,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX19039,Monterrey,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX16053,Morelia,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX05019,Morelos,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX08046,Morelos,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX15056,Morelos,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX16054,Morelos,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX32032,Morelos,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX08047,Moris,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX11021,Moroleón,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX07057,Motozintla,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX31052,Motul,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX32033,Moyahua de Estrada,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX16055,Múgica,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX03002,Mulegé,Location/MX03,ADMIN_STRUCTURE,Jurisdiction
+MX31053,Muna,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX29011,Muñoz de Domingo Arenas,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX31054,Muxupip,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX05020,Múzquiz,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX27013,Nacajuca,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX26039,Naco,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX26040,Nácori Chico,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX26041,Nacozari de García,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX05021,Nadadores,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX16056,Nahuatzen,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX08048,Namiquipa,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX29021,Nanacamilpa de Mariano Arista,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX30206,Nanchital de Lázaro Cárdenas del Río,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30112,Naolinco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30113,Naranjal,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30013,Naranjos Amatlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20062,Natividad,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29023,Natívitas,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX15057,Naucalpan de Juárez,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21100,Naupan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30114,Nautla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21101,Nauzontla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX05022,Nava,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX26042,Navojoa,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX25018,Navolato,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX20063,Nazareno Etla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10015,Nazas,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX21102,Nealtican,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20064,Nejapa de Madero,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15059,Nextlalpan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15058,Nezahualcóyotl,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21103,Nicolás Bravo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13043,Nicolás Flores,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX15060,Nicolás Romero,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07058,Nicolás Ruíz,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX32034,Nochistlán de Mejía,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX16057,Nocupétaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX26043,Nogales,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX30115,Nogales,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX10016,Nombre de Dios,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX08049,Nonoava,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX13044,Nopala de Villagrán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX15061,Nopaltepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21104,Nopalucan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX32035,Noria de Ángeles,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX08050,Nuevo Casas Grandes,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX10039,Nuevo Ideal,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX28027,Nuevo Laredo,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX28028,Nuevo Morelos,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX16058,Nuevo Parangaricutiro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16059,Nuevo Urecho,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX20504,Nuevo Zoquiápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX16060,Numarán,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX20067,Oaxaca de Juárez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX05023,Ocampo,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX08051,Ocampo,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX10017,Ocampo,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX11022,Ocampo,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX16061,Ocampo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX28029,Ocampo,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX07059,Ocosingo,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07060,Ocotepec,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX21105,Ocotepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14063,Ocotlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20068,Ocotlán de Morelos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15062,Ocoyoacac,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21106,Ocoyucan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07061,Ocozocoautla de Espinosa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15063,Ocuilan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX17016,Ocuituco,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX08052,Ojinaga,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX32036,Ojocaliente,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX14064,Ojuelos de Jalisco,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX12045,Olinalá,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX21107,Olintla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30116,Oluta,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30117,Omealca,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12046,Ometepec,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX13045,Omitlán de Juárez,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX26044,Onavas,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX31055,Opichén,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX26045,Opodepe,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX26046,Oquitoa,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX21108,Oriental,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30118,Orizaba,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07062,Ostuacán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07063,Osumacinta,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX10019,Otáez,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX30119,Otatitlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30120,Oteapan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX23004,Othón P. Blanco,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX15065,Otumba,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15066,Otzoloapan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15067,Otzolotepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07064,Oxchuc,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX31056,Oxkutzcab,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX30121,Ozuluama de Mascareñas,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15068,Ozumba,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX01006,Pabellón de Arteaga,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX13048,Pachuca de Soto,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX13047,Pacula,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX28030,Padilla,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX21109,Pahuatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX16062,Pajacuarán,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30122,Pajapan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07065,Palenque,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX04007,Palizada,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX21110,Palmar de Bravo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX28031,Palmillas,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX31057,Panabá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX16063,Panindícuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX29024,Panotla,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX07066,Pantelhó,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07067,Pantepec,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX21111,Pantepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30123,Pánuco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX32037,Pánuco,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX10020,Pánuco de Coronado,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX15069,Papalotla,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX29041,Papalotla de Xicohténcatl,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX30124,Papantla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16065,Paracho,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16064,Parácuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX27014,Paraíso,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX19040,Parás,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX05024,Parras,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX30126,Paso de Ovejas,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30125,Paso del Macho,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16066,Pátzcuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX12047,Pedro Ascencio Alquisiras,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX22012,Pedro Escobedo,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX22013,Peñamiller,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX16067,Penjamillo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX11023,Pénjamo,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX10021,Peñón Blanco,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX16068,Peribán,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30128,Perote,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX19041,Pesquería,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX12048,Petatlán,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX21112,Petlalcingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX31058,Peto,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX21113,Piaxtla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07068,Pichucalco,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX05025,Piedras Negras,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX14065,Pihuamo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX07069,Pijijiapan,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX12049,Pilcaya,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX22002,Pinal de Amoles,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX32038,Pinos,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX20070,Pinotepa de Don Luis,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13049,Pisaflores,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX26047,Pitiquito,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX30129,Platón Sánchez,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30130,Playa Vicente,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX02005,Playas de Rosarito,Location/MX02,ADMIN_STRUCTURE,Jurisdiction
+MX20071,Pluma Hidalgo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10022,Poanas,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX15071,Polotitlán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14066,Poncitlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30131,Poza Rica de Hidalgo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX08053,Praxedis G. Guerrero,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX05026,Progreso,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX31059,Progreso,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX13050,Progreso de Obregón,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21114,Puebla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX10023,Pueblo Nuevo,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX11024,Pueblo Nuevo,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX07072,Pueblo Nuevo Solistahuacán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30133,Pueblo Viejo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX17017,Puente de Ixtla,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX30134,Puente Nacional,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX26048,Puerto Peñasco,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX14067,Puerto Vallarta,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX12050,Pungarabato,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX16070,Purépero,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX11025,Purísima del Rincón,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX16071,Puruándiro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX20073,Putla Villa de Guerrero,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21115,Quecholac,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12051,Quechultenango,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX16072,Queréndaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX22014,Querétaro,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX21116,Quimixtlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX31060,Quintana Roo,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX26049,Quiriego,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX16073,Quiroga,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX14069,Quitupan,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30135,Rafael Delgado,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21117,Rafael Lara Grajales,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30136,Rafael Lucio,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX05027,Ramos Arizpe,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX07073,Rayón,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15072,Rayón,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX24023,Rayón,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX26050,Rayón,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX19043,Rayones,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX07074,Reforma,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX20075,Reforma de Pineda,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20077,Reyes Etla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX28032,Reynosa,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX01007,Rincón de Romos,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX30138,Río Blanco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX28033,Río Bravo,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX32039,Río Grande,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX31061,Río Lagartos,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX24024,Rioverde,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX08054,Riva Palacio,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX10024,Rodeo,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX20078,Rojas de Cuauhtémoc,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11026,Romita,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX08055,Rosales,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX18010,Rosamorada,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX08056,Rosario,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX25014,Rosario,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX26051,Rosario,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX18011,Ruíz,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX07076,Sabanilla,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX05028,Sabinas,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX19044,Sabinas Hidalgo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX31062,Sacalum,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX05029,Sacramento,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX26052,Sahuaripa,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX16076,Sahuayo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX32040,Sain Alto,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX11027,Salamanca,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX20079,Salina Cruz,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24025,Salinas,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX19045,Salinas Victoria,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX30139,Saltabarranca,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX05030,Saltillo,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX07077,Salto de Agua,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX25015,Salvador Alvarado,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX16079,Salvador Escalante,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX11028,Salvatierra,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX31063,Samahil,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX20080,San Agustín Amatengo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20081,San Agustín Atenango,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20082,San Agustín Chayuco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20083,San Agustín de las Juntas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20084,San Agustín Etla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20085,San Agustín Loxicha,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13036,San Agustín Metzquititlán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20086,San Agustín Tlacotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13052,San Agustín Tlaxiaca,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20087,San Agustín Yatareni,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20088,San Andrés Cabecera Nueva,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21119,San Andrés Cholula,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20089,San Andrés Dinicuiti,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07118,San Andrés Duraznal,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX20090,San Andrés Huaxpaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20091,San Andrés Huayápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20092,San Andrés Ixtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20093,San Andrés Lagunas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20094,San Andrés Nuxiño,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20095,San Andrés Paxtlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20096,San Andrés Sinaxtla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20097,San Andrés Solaga,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30140,San Andrés Tenejapan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20098,San Andrés Teotilálpam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20099,San Andrés Tepetlapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30141,San Andrés Tuxtla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20100,San Andrés Yaá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20101,San Andrés Zabache,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20102,San Andrés Zautla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20103,San Antonino Castillo Velasco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20104,San Antonino el Alto,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20105,San Antonino Monte Verde,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24026,San Antonio,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20106,San Antonio Acutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21120,San Antonio Cañada,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20107,San Antonio de la Cal,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20108,San Antonio Huitepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15073,San Antonio la Isla,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20109,San Antonio Nanahuatípam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20110,San Antonio Sinicahua,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20111,San Antonio Tepetlapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20112,San Baltazar Chichicápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20113,San Baltazar Loxicha,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20114,San Baltazar Yatzachi el Bajo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20115,San Bartolo Coyotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20121,San Bartolo Soyaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13053,San Bartolo Tutotepec,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20122,San Bartolo Yautepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20116,San Bartolomé Ayautla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20117,San Bartolomé Loxicha,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20118,San Bartolomé Quialana,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20119,San Bartolomé Yucuañe,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20120,San Bartolomé Zoogocho,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10025,San Bernardo,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX20123,San Bernardo Mixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX18012,San Blas,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX20124,San Blas Atempa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX05031,San Buenaventura,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX28034,San Carlos,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX20125,San Carlos Yautepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24027,San Ciro de Acosta,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20126,San Cristóbal Amatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20127,San Cristóbal Amoltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14071,San Cristóbal de la Barranca,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX07078,San Cristóbal de las Casas,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX20128,San Cristóbal Lachirioag,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20129,San Cristóbal Suchixtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29049,San Damián Texóloc,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX14072,San Diego de Alejandría,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX11029,San Diego de la Unión,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX21121,San Diego la Mesa Tochimiltzingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX10026,San Dimas,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX20130,San Dionisio del Mar,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20131,San Dionisio Ocotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20132,San Dionisio Ocotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20133,San Esteban Atatlahuca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11030,San Felipe,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX31065,San Felipe,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX26053,San Felipe de Jesús,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX15074,San Felipe del Progreso,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20134,San Felipe Jalapa de Díaz,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13046,San Felipe Orizatlán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20135,San Felipe Tejalápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21122,San Felipe Teotlalcingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21123,San Felipe Tepatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20136,San Felipe Usila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07079,San Fernando,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX28035,San Fernando,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX20137,San Francisco Cahuacuá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20138,San Francisco Cajonos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20139,San Francisco Chapulapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20140,San Francisco Chindúa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX08057,San Francisco de Borja,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX08058,San Francisco de Conchos,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX01011,San Francisco de los Romo,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX20141,San Francisco del Mar,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX08059,San Francisco del Oro,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX11031,San Francisco del Rincón,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX20142,San Francisco Huehuetlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20143,San Francisco Ixhuatán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20144,San Francisco Jaltepetongo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20145,San Francisco Lachigoló,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20146,San Francisco Logueche,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20147,San Francisco Nuxaño,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20148,San Francisco Ozolotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20149,San Francisco Sola,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20150,San Francisco Telixtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20151,San Francisco Teopan,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29050,San Francisco Tetlanohcan,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20152,San Francisco Tlapancingo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14113,San Gabriel,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX21124,San Gabriel Chilac,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20153,San Gabriel Mixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21125,San Gregorio Atzompa,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX25016,San Ignacio,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX14125,San Ignacio Cerro Gordo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX26072,San Ignacio Río Muerto,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX20154,San Ildefonso Amatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20155,San Ildefonso Sola,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20156,San Ildefonso Villa Alta,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20157,San Jacinto Amilpas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20158,San Jacinto Tlacotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX26054,San Javier,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX20159,San Jerónimo Coatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20160,San Jerónimo Silacayoapilla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20161,San Jerónimo Sosola,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20162,San Jerónimo Taviche,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20163,San Jerónimo Tecóatl,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21126,San Jerónimo Tecuanipan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20550,San Jerónimo Tlacochahuaya,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21127,San Jerónimo Xayacatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29051,San Jerónimo Zacualpan,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX22015,San Joaquín,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX20164,San Jorge Nuchita,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20165,San José Ayuquila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21128,San José Chiapa,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20166,San José Chiltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX01008,San José de Gracia,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX20167,San José del Peñasco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20072,San José del Progreso,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15124,San José del Rincón,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20168,San José Estancia Grande,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20169,San José Independencia,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11032,San José Iturbide,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX20170,San José Lachiguiri,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21129,San José Miahuatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29052,San José Teacalco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20171,San José Tenango,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20172,San Juan Achiutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21130,San Juan Atenco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20173,San Juan Atepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21131,San Juan Atzompa,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20175,San Juan Bautista Atatlahuca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20176,San Juan Bautista Coixtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20177,San Juan Bautista Cuicatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20178,San Juan Bautista Guelache,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20179,San Juan Bautista Jayacatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20180,San Juan Bautista Lo de Soto,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20181,San Juan Bautista Suchitepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20183,San Juan Bautista Tlachichilco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20182,San Juan Bautista Tlacoatzintepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20184,San Juan Bautista Tuxtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20559,San Juan Bautista Valle Nacional,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20185,San Juan Cacahuatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07112,San Juan Cancuc,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX20191,San Juan Chicomezúchil,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20192,San Juan Chilateca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20186,San Juan Cieneguilla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20187,San Juan Coatzóspam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20188,San Juan Colorado,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20189,San Juan Comaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20190,San Juan Cotzocón,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10027,San Juan de Guadalupe,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX20206,San Juan de los Cués,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14073,San Juan de los Lagos,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX05032,San Juan de Sabinas,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX20193,San Juan del Estado,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10028,San Juan del Río,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX20194,San Juan del Río,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX22016,San Juan del Río,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX20195,San Juan Diuxi,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30142,San Juan Evangelista,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20196,San Juan Evangelista Analco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20197,San Juan Guelavía,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20198,San Juan Guichicovi,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29053,San Juan Huactzinco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20199,San Juan Ihualtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20200,San Juan Juquila Mixes,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20201,San Juan Juquila Vijanos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20202,San Juan Lachao,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20203,San Juan Lachigalla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20204,San Juan Lajarcia,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20205,San Juan Lalana,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20207,San Juan Mazatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20208,San Juan Mixtepec -Dto. 08 -,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20209,San Juan Mixtepec -Dto. 26 -,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20210,San Juan Ñumí,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20211,San Juan Ozolotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20212,San Juan Petlapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20213,San Juan Quiahije,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20214,San Juan Quiotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20215,San Juan Sayultepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20216,San Juan Tabaá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20217,San Juan Tamazola,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20218,San Juan Teita,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20219,San Juan Teitipac,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20220,San Juan Tepeuxila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20221,San Juan Teposcolula,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20222,San Juan Yaeé,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20223,San Juan Yatzona,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20224,San Juan Yucuita,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14007,San Juanito de Escobedo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14074,San Julián,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20225,San Lorenzo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20226,San Lorenzo Albarradas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29054,San Lorenzo Axocomanitla,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20227,San Lorenzo Cacaotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20228,San Lorenzo Cuaunecuiltitla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20229,San Lorenzo Texmelúcan,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20230,San Lorenzo Victoria,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07110,San Lucas,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX16077,San Lucas,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX20231,San Lucas Camotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20232,San Lucas Ojitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20233,San Lucas Quiaviní,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29055,San Lucas Tecopilco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20234,San Lucas Zoquiápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX12052,San Luis Acatlán,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX20235,San Luis Amatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11033,San Luis de la Paz,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX10029,San Luis del Cordero,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX24028,San Luis Potosí,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX26055,San Luis Río Colorado,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX20236,San Marcial Ozolotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX12053,San Marcos,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX14075,San Marcos,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20237,San Marcos Arteaga,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24029,San Martín Chalchicuautla,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX14076,San Martín de Bolaños,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15075,San Martín de las Pirámides,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20238,San Martín de los Cansecos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14077,San Martín Hidalgo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20239,San Martín Huamelúlpam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20240,San Martín Itunyoso,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20241,San Martín Lachilá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20242,San Martín Peras,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21132,San Martín Texmelucan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20243,San Martín Tilcajete,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21133,San Martín Totoltepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20244,San Martín Toxpalan,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20245,San Martín Zacatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15076,San Mateo Atenco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20246,San Mateo Cajonos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20248,San Mateo del Mar,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20250,San Mateo Etlatongo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20251,San Mateo Nejápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20252,San Mateo Peñasco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20253,San Mateo Piñas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20254,San Mateo Río Hondo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20255,San Mateo Sindihui,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20256,San Mateo Tlapiltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20249,San Mateo Yoloxochitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20566,San Mateo Yucutindó,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21134,San Matías Tlalancaleca,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20257,San Melchor Betaza,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20258,San Miguel Achiutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20259,San Miguel Ahuehuetitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20260,San Miguel Aloápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20261,San Miguel Amatitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20262,San Miguel Amatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20264,San Miguel Chicahua,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20265,San Miguel Chimalapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20263,San Miguel Coatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11003,San Miguel de Allende,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX26056,San Miguel de Horcasitas,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX20266,San Miguel del Puerto,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20267,San Miguel del Río,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20268,San Miguel Ejutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14078,San Miguel el Alto,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20269,San Miguel el Grande,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20270,San Miguel Huautla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21135,San Miguel Ixitlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20271,San Miguel Mixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20272,San Miguel Panixtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20273,San Miguel Peras,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20274,San Miguel Piedras,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20275,San Miguel Quetzaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20276,San Miguel Santa Flor,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20278,San Miguel Soyaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20279,San Miguel Suchixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20281,San Miguel Tecomatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20282,San Miguel Tenango,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20283,San Miguel Tequixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20284,San Miguel Tilquiápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20285,San Miguel Tlacamama,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20286,San Miguel Tlacotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX12054,San Miguel Totolapan,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX20287,San Miguel Tulancingo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21136,San Miguel Xoxtla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20288,San Miguel Yotao,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20289,San Nicolás,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX28036,San Nicolás,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX21137,San Nicolás Buenos Aires,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX19046,San Nicolás de los Garza,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX21138,San Nicolás de los Ranchos,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20290,San Nicolás Hidalgo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24030,San Nicolás Tolentino,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX21139,San Pablo Anicano,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20291,San Pablo Coatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20292,San Pablo Cuatro Venados,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29025,San Pablo del Monte,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20293,San Pablo Etla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20294,San Pablo Huitzo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20295,San Pablo Huixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20296,San Pablo Macuiltianguis,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20297,San Pablo Tijaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20298,San Pablo Villa de Mitla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20299,San Pablo Yaganiza,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX05033,San Pedro,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX20300,San Pedro Amuzgos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20301,San Pedro Apóstol,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20302,San Pedro Atoyac,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20303,San Pedro Cajonos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21140,San Pedro Cholula,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20305,San Pedro Comitancillo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20304,San Pedro Coxcaltepec Cántaros,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX26057,San Pedro de la Cueva,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX10030,San Pedro del Gallo,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX20306,San Pedro el Alto,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX19019,San Pedro Garza García,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX20307,San Pedro Huamelula,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20308,San Pedro Huilotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20309,San Pedro Ixcatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20310,San Pedro Ixtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20311,San Pedro Jaltepetongo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20312,San Pedro Jicayán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20313,San Pedro Jocotipac,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20314,San Pedro Juchatengo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX18013,San Pedro Lagunillas,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX20315,San Pedro Mártir,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20316,San Pedro Mártir Quiechapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20317,San Pedro Mártir Yucuxaco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20318,San Pedro Mixtepec -Dto. 22 -,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20319,San Pedro Mixtepec -Dto. 26 -,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20320,San Pedro Molinos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20321,San Pedro Nopala,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20322,San Pedro Ocopetatillo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20323,San Pedro Ocotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20324,San Pedro Pochutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20325,San Pedro Quiatoni,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20326,San Pedro Sochiápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20327,San Pedro Tapanatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20328,San Pedro Taviche,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20329,San Pedro Teozacoalco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20330,San Pedro Teutila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20331,San Pedro Tidaá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14098,San Pedro Tlaquepaque,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20332,San Pedro Topiltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20333,San Pedro Totolápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20337,San Pedro y San Pablo Ayutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20339,San Pedro y San Pablo Teposcolula,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20340,San Pedro y San Pablo Tequixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20335,San Pedro Yaneri,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21141,San Pedro Yeloixtlahuaca,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20336,San Pedro Yólox,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20341,San Pedro Yucunama,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30211,San Rafael,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20342,San Raymundo Jalpan,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13054,San Salvador,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21142,San Salvador el Seco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21143,San Salvador el Verde,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21144,San Salvador Huixcolotla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20343,San Sebastián Abasolo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20344,San Sebastián Coatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14080,San Sebastián del Oeste,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20345,San Sebastián Ixcapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20346,San Sebastián Nicananduta,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20347,San Sebastián Río Hondo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20348,San Sebastián Tecomaxtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20349,San Sebastián Teitipac,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21145,San Sebastián Tlacotepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20350,San Sebastián Tutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20351,San Simón Almolongas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15077,San Simón de Guerrero,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20352,San Simón Zahuatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20534,San Vicente Coatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20535,San Vicente Lachixío,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20536,San Vicente Nuñú,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24034,San Vicente Tancuayalab,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX31064,Sanahcat,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX29020,Sanctórum de Lázaro Cárdenas,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20353,Santa Ana,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX26058,Santa Ana,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX20354,Santa Ana Ateixtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20355,Santa Ana Cuauhtémoc,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20356,Santa Ana del Valle,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX16078,Santa Ana Maya,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX29056,Santa Ana Nopalucan,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20357,Santa Ana Tavela,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20358,Santa Ana Tlapacoyan,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20359,Santa Ana Yareni,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20360,Santa Ana Zegache,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29057,Santa Apolonia Teacalco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX08060,Santa Bárbara,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX20361,Santa Catalina Quierí,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11034,Santa Catarina,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX19048,Santa Catarina,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX24031,Santa Catarina,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX29058,Santa Catarina Ayometla,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20362,Santa Catarina Cuixtla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20363,Santa Catarina Ixtepeji,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20364,Santa Catarina Juquila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20365,Santa Catarina Lachatao,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20366,Santa Catarina Loxicha,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20367,Santa Catarina Mechoacán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20368,Santa Catarina Minas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20369,Santa Catarina Quiané,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20074,Santa Catarina Quioquitani,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20370,Santa Catarina Tayata,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20371,Santa Catarina Ticuá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21146,Santa Catarina Tlaltempan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20372,Santa Catarina Yosonotú,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20373,Santa Catarina Zapoquila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10031,Santa Clara,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX26059,Santa Cruz,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX20374,Santa Cruz Acatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20375,Santa Cruz Amilpas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20376,Santa Cruz de Bravo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11035,Santa Cruz de Juventino Rosas,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX20377,Santa Cruz Itundujia,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20378,Santa Cruz Mixtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20379,Santa Cruz Nundaco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20380,Santa Cruz Papalutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29059,Santa Cruz Quilehtla,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20381,Santa Cruz Tacache de Mina,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20382,Santa Cruz Tacahua,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20383,Santa Cruz Tayata,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX29026,Santa Cruz Tlaxcala,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20384,Santa Cruz Xitla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20385,Santa Cruz Xoxocotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20386,Santa Cruz Zenzontepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX31066,Santa Elena,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX20387,Santa Gertrudis,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21147,Santa Inés Ahuatempan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20569,Santa Inés de Zaragoza,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20388,Santa Inés del Monte,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20389,Santa Inés Yatzeche,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX08024,Santa Isabel,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX21148,Santa Isabel Cholula,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29060,Santa Isabel Xiloxoxtla,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX20390,Santa Lucía del Camino,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20391,Santa Lucía Miahuatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20392,Santa Lucía Monteverde,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20393,Santa Lucía Ocotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20047,Santa Magdalena Jicotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20394,Santa María Alotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20395,Santa María Apazco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20399,Santa María Atzompa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20400,Santa María Camotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20404,Santa María Chachoápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20406,Santa María Chilchotla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20407,Santa María Chimalapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20401,Santa María Colotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20402,Santa María Cortijo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20403,Santa María Coyotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX32058,Santa María de la Paz,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX14081,Santa María de los Ángeles,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14056,Santa María del Oro,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX18014,Santa María del Oro,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX24032,Santa María del Río,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20408,Santa María del Rosario,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20409,Santa María del Tule,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20410,Santa María Ecatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20411,Santa María Guelacé,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20412,Santa María Guienagati,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20413,Santa María Huatulco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20414,Santa María Huazolotitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20415,Santa María Ipalapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20416,Santa María Ixcatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20417,Santa María Jacatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20418,Santa María Jalapa del Marqués,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20419,Santa María Jaltianguis,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20396,Santa María la Asunción,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20420,Santa María Lachixío,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20421,Santa María Mixtequilla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20422,Santa María Nativitas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20423,Santa María Nduayaco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20424,Santa María Ozolotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20425,Santa María Pápalo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20426,Santa María Peñoles,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20427,Santa María Petapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20428,Santa María Quiegolani,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20429,Santa María Sola,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20430,Santa María Tataltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20431,Santa María Tecomavaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20432,Santa María Temaxcalapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20433,Santa María Temaxcaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20434,Santa María Teopoxco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20435,Santa María Tepantlali,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20436,Santa María Texcatitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20437,Santa María Tlahuitoltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20438,Santa María Tlalixtac,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20439,Santa María Tonameca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20440,Santa María Totolapilla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20441,Santa María Xadani,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20442,Santa María Yalina,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20443,Santa María Yavesía,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20444,Santa María Yolotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20445,Santa María Yosoyúa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20446,Santa María Yucuhiti,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20447,Santa María Zacatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20448,Santa María Zaniza,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20449,Santa María Zoquitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX19049,Santiago,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX20450,Santiago Amoltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20451,Santiago Apoala,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20452,Santiago Apóstol,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20453,Santiago Astata,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20454,Santiago Atitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20455,Santiago Ayuquililla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20456,Santiago Cacaloxtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20457,Santiago Camotlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20459,Santiago Chazumba,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20460,Santiago Choápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20458,Santiago Comaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13055,Santiago de Anaya,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20461,Santiago del Río,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07119,Santiago el Pinar,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX20462,Santiago Huajolotitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20463,Santiago Huauclilla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20464,Santiago Ihuitlán Plumas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20465,Santiago Ixcuintepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX18015,Santiago Ixcuintla,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX20466,Santiago Ixtayutla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20467,Santiago Jamiltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20468,Santiago Jocotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20469,Santiago Juxtlahuaca,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20470,Santiago Lachiguiri,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20471,Santiago Lalopa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20472,Santiago Laollaga,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20473,Santiago Laxopa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20474,Santiago Llano Grande,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11036,Santiago Maravatío,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX20475,Santiago Matatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21149,Santiago Miahuatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20476,Santiago Miltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20477,Santiago Minas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20478,Santiago Nacaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20479,Santiago Nejapilla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20066,Santiago Niltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20480,Santiago Nundiche,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20481,Santiago Nuyoó,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX10032,Santiago Papasquiaro,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX20482,Santiago Pinotepa Nacional,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30212,Santiago Sochiapan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20483,Santiago Suchilquitongo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20484,Santiago Tamazola,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20485,Santiago Tapextla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20487,Santiago Tenango,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20488,Santiago Tepetlapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20489,Santiago Tetepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20490,Santiago Texcalcingo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20491,Santiago Textitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20492,Santiago Tilantongo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20493,Santiago Tillo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20494,Santiago Tlazoyaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13056,Santiago Tulantepec de Lugo Guerrero,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30143,Santiago Tuxtla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20495,Santiago Xanica,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20496,Santiago Xiacuí,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20497,Santiago Yaitepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20498,Santiago Yaveo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20499,Santiago Yolomécatl,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20500,Santiago Yosondúa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20501,Santiago Yucuyachi,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20502,Santiago Zacatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20503,Santiago Zoochila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24033,Santo Domingo,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20506,Santo Domingo Albarradas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20507,Santo Domingo Armenta,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20508,Santo Domingo Chihuitán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20509,Santo Domingo de Morelos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20505,Santo Domingo Ingenio,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20510,Santo Domingo Ixcatlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20511,Santo Domingo Nuxaá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20512,Santo Domingo Ozolotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20513,Santo Domingo Petapa,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20514,Santo Domingo Roayaga,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20515,Santo Domingo Tehuantepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20516,Santo Domingo Teojomulco,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20517,Santo Domingo Tepuxtepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20518,Santo Domingo Tlatayápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20519,Santo Domingo Tomaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20520,Santo Domingo Tonalá,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20521,Santo Domingo Tonaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20522,Santo Domingo Xagacía,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20523,Santo Domingo Yanhuitlán,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20524,Santo Domingo Yodohino,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20525,Santo Domingo Zanatepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15078,Santo Tomás,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21151,Santo Tomás Hueyotlipan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20530,Santo Tomás Jalieza,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20531,Santo Tomás Mazaltepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20532,Santo Tomás Ocotepec,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20533,Santo Tomás Tamazulapan,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20526,Santos Reyes Nopala,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20527,Santos Reyes Pápalo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20528,Santos Reyes Tepejillo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20529,Santos Reyes Yucuná,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX26060,Sáric,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX08061,Satevó,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX08062,Saucillo,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX14082,Sayula,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30144,Sayula de Alemán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX16080,Senguio,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX31067,Seyé,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX05034,Sierra Mojada,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX20537,Silacayoápam,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX11037,Silao de la Victoria,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX07080,Siltepec,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07081,Simojovel,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX25017,Sinaloa,Location/MX25,ADMIN_STRUCTURE,Jurisdiction
+MX31068,Sinanché,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX13057,Singuilucan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX07082,Sitalá,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX20538,Sitio de Xitlapehua,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30146,Sochiapa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07083,Socoltenango,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30145,Soconusco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30147,Soledad Atzompa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30148,Soledad de Doblado,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24035,Soledad de Graciano Sánchez,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20539,Soledad Etla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX23008,Solidaridad,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX07084,Solosuchiapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX21152,Soltepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX32042,Sombrerete,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX30149,Soteapan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX28037,Soto la Marina,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX31069,Sotuta,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX07085,Soyaló,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15079,Soyaniquilpan de Juárez,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX26061,Soyopa,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX26062,Suaqui Grande,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX07086,Suchiapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07087,Suchiate,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX10033,Súchil,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX31070,Sucilá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31071,Sudzal,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX15080,Sultepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX31072,Suma,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX07088,Sunuapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX32043,Susticacán,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX16081,Susupuato,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX32044,Tabasco,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX16082,Tacámbaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX27015,Tacotalpa,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX31073,Tahdziú,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31074,Tahmek,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX14083,Tala,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14084,Talpa de Allende,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30150,Tamalín,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24036,Tamasopo,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX10034,Tamazula,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX14085,Tamazula de Gordiano,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20031,Tamazulápam del Espíritu Santo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24037,Tamazunchale,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX30151,Tamiahua,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24038,Tampacán,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX24039,Tampamolón Corona,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX28038,Tampico,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX30152,Tampico Alto,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24040,Tamuín,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX24012,Tancanhuitz,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX16083,Tancítaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30153,Tancoco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20541,Tanetze de Zaragoza,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX16084,Tangamandapio,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16085,Tangancícuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16086,Tanhuato,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX20542,Taniche,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24041,Tanlajás,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX24042,Tanquián de Escobedo,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX30154,Tantima,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30155,Tantoyuca,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07089,Tapachula,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07090,Tapalapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX14086,Tapalpa,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX07091,Tapilula,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX11038,Tarandacuao,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX16087,Taretan,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16088,Tarímbaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX11039,Tarimoro,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX13058,Tasquillo,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30209,Tatahuicapan de Juárez,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20543,Tataltepec de Valdés,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30156,Tatatila,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12055,Taxco de Alarcón,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX31075,Teabo,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX27016,Teapa,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX21153,Tecali de Herrera,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14087,Tecalitlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15081,Tecámac,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21154,Tecamachalco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX02003,Tecate,Location/MX02,ADMIN_STRUCTURE,Jurisdiction
+MX14089,Techaluta de Montenegro,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX12056,Tecoanapa,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX31076,Tecoh,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX14088,Tecolotlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30158,Tecolutla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX06009,Tecomán,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX21155,Tecomatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13059,Tecozautla,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX12057,Técpan de Galeana,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX07092,Tecpatán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX18016,Tecuala,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX21156,Tehuacán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30159,Tehuipango,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21157,Tehuitzingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15082,Tejupilco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX31077,Tekal de Venegas,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31078,Tekantó,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31079,Tekax,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31080,Tekit,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31081,Tekom,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31082,Telchac Pueblo,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31083,Telchac Puerto,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX12058,Teloloapan,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX15083,Temamatla,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15084,Temascalapa,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15085,Temascalcingo,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15086,Temascaltepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX31084,Temax,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX17018,Temixco,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX17033,Temoac,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX15087,Temoaya,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX08063,Temósachic,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX31085,Temozón,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX30161,Tempoal,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX04008,Tenabo,Location/MX04,ADMIN_STRUCTURE,Jurisdiction
+MX14090,Tenamaxtlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30162,Tenampa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21158,Tenampulco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15088,Tenancingo,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX29027,Tenancingo,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX13060,Tenango de Doria,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX15089,Tenango del Aire,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15090,Tenango del Valle,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07093,Tenejapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30163,Tenochtitlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX27017,Tenosique,Location/MX27,ADMIN_STRUCTURE,Jurisdiction
+MX14091,Teocaltiche,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30164,Teocelo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20544,Teococuilco de Marcos Pérez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14092,Teocuitatlán de Corona,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX29028,Teolocholco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX15091,Teoloyucan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21159,Teopantlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07094,Teopisca,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15092,Teotihuacán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20545,Teotitlán de Flores Magón,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20546,Teotitlán del Valle,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21160,Teotlalco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20547,Teotongo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX26063,Tepache,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX31086,Tepakán,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX16089,Tepalcatepec,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX17019,Tepalcingo,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21161,Tepanco de López,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21162,Tepango de Rodríguez,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14093,Tepatitlán de Morelos,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30165,Tepatlaxco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21163,Tepatlaxco de Hidalgo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21164,Tepeaca,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13061,Tepeapulco,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX32045,Tepechitlán,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX12059,Tepecoacuilco de Trujano,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX13062,Tepehuacán de Guerrero,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX10035,Tepehuanes,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX13063,Tepeji del Río de Ocampo,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20548,Tepelmeme Villa de Morelos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21165,Tepemaxalco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21166,Tepeojuma,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29019,Tepetitla de Lardizábal,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX13064,Tepetitlán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30166,Tepetlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15093,Tepetlaoxtoc,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15094,Tepetlixpa,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX32046,Tepetongo,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX21167,Tepetzintla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30167,Tepetzintla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21168,Tepexco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21169,Tepexi de Rodríguez,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21170,Tepeyahualco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21171,Tepeyahualco de Cuauhtémoc,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29029,Tepeyanco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX01009,Tepezalá,Location/MX01,ADMIN_STRUCTURE,Jurisdiction
+MX18017,Tepic,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX15095,Tepotzotlán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX17020,Tepoztlán,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX14094,Tequila,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30168,Tequila,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX22017,Tequisquiapan,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX15096,Tequixquiac,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX29030,Terrenate,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX17021,Tetecala,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21172,Tetela de Ocampo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX17022,Tetela del Volcán,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21173,Teteles de Avila Castillo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13065,Tetepango,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX12060,Tetipac,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX31087,Tetiz,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX29031,Tetla de la Solidaridad,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX29032,Tetlatlahuca,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX14095,Teuchitlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX32047,Teúl de González Ortega,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX15097,Texcaltitlán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15098,Texcalyacac,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30170,Texcatepec,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15099,Texcoco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30171,Texhuacán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30172,Texistepec,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX31088,Teya,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX21174,Teziutlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30173,Tezonapa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX13067,Tezontepec de Aldama,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX15100,Tezoyuca,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21175,Tianguismanalco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15101,Tianguistenco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX13068,Tianguistengo,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX31089,Ticul,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX11040,Tierra Blanca,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX30174,Tierra Blanca,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24043,Tierra Nueva,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX30175,Tihuatlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX02004,Tijuana,Location/MX02,ADMIN_STRUCTURE,Jurisdiction
+MX07096,Tila,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX21176,Tilapa,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15102,Timilpan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX31090,Timucuy,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX16090,Tingambato,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16091,Tingüindín,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX31091,Tinum,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX16092,Tiquicheo de Nicolás Romero,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX31092,Tixcacalcupul,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31093,Tixkokob,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31094,Tixmehuac,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31095,Tixpéhual,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX12061,Tixtla de Guerrero,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX14096,Tizapán el Alto,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX13069,Tizayuca,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX31096,Tizimín,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX30180,Tlachichilco,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21179,Tlachichuca,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12062,Tlacoachistlahuaca,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX12063,Tlacoapa,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30176,Tlacojalpan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20551,Tlacolula de Matamoros,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX30177,Tlacolulan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30178,Tlacotalpan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21177,Tlacotepec de Benito Juárez,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30179,Tlacotepec de Mejía,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20552,Tlacotepec Plumas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21178,Tlacuilotepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX09011,Tláhuac,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX10036,Tlahualilo,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX21180,Tlahuapan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13070,Tlahuelilpan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX13071,Tlahuiltepa,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX14097,Tlajomulco de Zúñiga,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX12064,Tlalchapa,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30181,Tlalixcoyan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20553,Tlalixtac de Cabrera,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX12065,Tlalixtaquilla de Maldonado,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX15103,Tlalmanalco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30182,Tlalnelhuayocan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX17023,Tlalnepantla,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX15104,Tlalnepantla de Baz,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX09012,Tlalpan,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX16093,Tlalpujahua,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX21181,Tlaltenango,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX32048,Tlaltenango de Sánchez Román,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX30024,Tlaltetela,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX17024,Tlaltizapán de Zapata,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX13072,Tlanalapa,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX13073,Tlanchinol,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21182,Tlanepantla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21183,Tlaola,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12066,Tlapa de Comonfort,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX21184,Tlapacoya,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30183,Tlapacoyan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21185,Tlapanalá,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX12067,Tlapehuala,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30184,Tlaquilpa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX17025,Tlaquiltenango,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21186,Tlatlauquitepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15105,Tlatlaya,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX29033,Tlaxcala,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21187,Tlaxco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29034,Tlaxco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX13074,Tlaxcoapan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX17026,Tlayacapan,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX16094,Tlazazalca,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30185,Tlilapan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX29035,Tocatlán,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21188,Tochimilco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21189,Tochtepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX16095,Tocumbo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX13075,Tolcayuca,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX14099,Tolimán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX22018,Tolimán,Location/MX22,ADMIN_STRUCTURE,Jurisdiction
+MX15106,Toluca,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14100,Tomatlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30186,Tomatlán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07097,Tonalá,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX14101,Tonalá,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15125,Tonanitla,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15107,Tonatico,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14102,Tonaya,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30187,Tonayán,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX14103,Tonila,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX10037,Topia,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX05035,Torreón,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX14104,Totatiche,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX29036,Totolac,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX07098,Totolapa,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX17027,Totolapan,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21190,Totoltepec de Guerrero,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX20554,Totontepec Villa de Morelos,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX14105,Tototlán,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX30188,Totutla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX32057,Trancoso,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX30207,Tres Valles,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX26064,Trincheras,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX32011,Trinidad García de la Cadena,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX20555,Trinidad Zaachila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX26065,Tubutama,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX28039,Tula,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX13076,Tula de Allende,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX13077,Tulancingo de Bravo,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX21191,Tulcingo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15108,Tultepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15109,Tultitlán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX23009,Tulum,Location/MX23,ADMIN_STRUCTURE,Jurisdiction
+MX07100,Tumbalá,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX16096,Tumbiscatío,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX31097,Tunkás,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX16097,Turicato,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX14106,Tuxcacuesco,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14107,Tuxcueca,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14108,Tuxpan,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX16098,Tuxpan,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX18018,Tuxpan,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX30189,Tuxpan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX30190,Tuxtilla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07102,Tuxtla Chico,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX07101,Tuxtla Gutiérrez,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX21192,Tuzamapan de Galeana,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07103,Tuzantán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX16099,Tuzantla,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX21193,Tzicatlacoyan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX07104,Tzimol,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX16100,Tzintzuntzan,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16101,Tzitzio,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX29038,Tzompantepec,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX31098,Tzucacab,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31099,Uayma,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31100,Ucú,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX31101,Umán,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX14109,Unión de San Antonio,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14110,Unión de Tula,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20557,Unión Hidalgo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07105,Unión Juárez,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX26066,Ures,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX11041,Uriangato,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX08065,Urique,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX30191,Ursulo Galván,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX08066,Uruachi,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX16102,Uruapan,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30210,Uxpanapa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX20558,Valerio Trujano,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX31102,Valladolid,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX15110,Valle de Bravo,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15122,Valle de Chalco Solidaridad,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14111,Valle de Guadalupe,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14112,Valle de Juárez,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX11042,Valle de Santiago,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX08067,Valle de Zaragoza,Location/MX08,ADMIN_STRUCTURE,Jurisdiction
+MX28040,Valle Hermoso,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX19050,Vallecillo,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX32049,Valparaíso,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX24044,Vanegas,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX30192,Vega de Alatorre,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX24045,Venado,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX07106,Venustiano Carranza,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX09017,Venustiano Carranza,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX16103,Venustiano Carranza,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX21194,Venustiano Carranza,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30193,Veracruz,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX32050,Vetagrande,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX10038,Vicente Guerrero,Location/MX10,ADMIN_STRUCTURE,Jurisdiction
+MX21195,Vicente Guerrero,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX11043,Victoria,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX28041,Victoria,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX05036,Viesca,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX30194,Villa Aldama,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX07071,Villa Comaltitlán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX14114,Villa Corona,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX07107,Villa Corzo,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15111,Villa de Allende,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX06010,Villa de Álvarez,Location/MX06,ADMIN_STRUCTURE,Jurisdiction
+MX24056,Villa de Arista,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX24046,Villa de Arriaga,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20405,Villa de Chilapa de Díaz,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX32051,Villa de Cos,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX20338,Villa de Etla,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24047,Villa de Guadalupe,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX24048,Villa de la Paz,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX24049,Villa de Ramos,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX24050,Villa de Reyes,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX20540,Villa de Tamazulápam del Progreso,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX13066,Villa de Tezontepec,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20334,Villa de Tututepec de Melchor Ocampo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20565,Villa de Zaachila,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX15112,Villa del Carbón,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX20560,Villa Díaz Ordaz,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX32052,Villa García,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX32053,Villa González Ortega,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX14115,Villa Guerrero,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15113,Villa Guerrero,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14116,Villa Hidalgo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20038,Villa Hidalgo,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX24051,Villa Hidalgo,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX26067,Villa Hidalgo,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX32054,Villa Hidalgo,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX24052,Villa Juárez,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX26068,Villa Pesqueira,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX14068,Villa Purificación,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20277,Villa Sola de Vega,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20280,Villa Talea de Castro,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20486,Villa Tejúpam de la Unión,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX05037,Villa Unión,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX15114,Villa Victoria,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX07108,Villaflores,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX11044,Villagrán,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX28042,Villagrán,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX19051,Villaldama,Location/MX19,ADMIN_STRUCTURE,Jurisdiction
+MX16104,Villamar,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX32055,Villanueva,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX16105,Vista Hermosa,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX30087,Xalapa,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15043,Xalatlaco,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX18008,Xalisco,Location/MX18,ADMIN_STRUCTURE,Jurisdiction
+MX29039,Xaloztoc,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX12069,Xalpatláhuac,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX29040,Xaltocan,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX21196,Xayacatlán de Bravo,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX11045,Xichú,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX30092,Xico,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX29042,Xicohtzinco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX28043,Xicoténcatl,Location/MX28,ADMIN_STRUCTURE,Jurisdiction
+MX21197,Xicotepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21198,Xicotlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX24054,Xilitla,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX21199,Xiutetelco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX31103,Xocchel,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX21200,Xochiapulco,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13078,Xochiatipan,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX13079,Xochicoatlán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX12070,Xochihuehuetlán,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX21201,Xochiltepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX09013,Xochimilco,Location/MX09,ADMIN_STRUCTURE,Jurisdiction
+MX12071,Xochistlahuaca,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX17028,Xochitepec,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21202,Xochitlán de Vicente Suárez,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21203,Xochitlán Todos Santos,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15115,Xonacatlán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX30195,Xoxocotla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX13080,Yahualica,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX14118,Yahualica de González Gallo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX07109,Yajalón,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX30196,Yanga,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21204,Yaonáhuac,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29043,Yauhquemehcan,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX17029,Yautepec,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX31104,Yaxcabá,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX20561,Yaxe,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX31105,Yaxkukul,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX17030,Yecapixtla,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX26069,Yécora,Location/MX26,ADMIN_STRUCTURE,Jurisdiction
+MX30197,Yecuatla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21205,Yehualtepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX31106,Yobaín,Location/MX31,ADMIN_STRUCTURE,Jurisdiction
+MX20563,Yogana,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX16106,Yurécuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX11046,Yuriria,Location/MX11,ADMIN_STRUCTURE,Jurisdiction
+MX20564,Yutanduchi de Guerrero,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX21206,Zacapala,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21207,Zacapoaxtla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX16107,Zacapu,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX32056,Zacatecas,Location/MX32,ADMIN_STRUCTURE,Jurisdiction
+MX29044,Zacatelco,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX17031,Zacatepec,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX21208,Zacatlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX15116,Zacazonapan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX14119,Zacoalco de Torres,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX15117,Zacualpan,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX17032,Zacualpan,Location/MX17,ADMIN_STRUCTURE,Jurisdiction
+MX30198,Zacualpan,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX13081,Zacualtipán de Ángeles,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX16108,Zamora,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX14120,Zapopan,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14121,Zapotiltic,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX21209,Zapotitlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21210,Zapotitlán de Méndez,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX14122,Zapotitlán de Vadillo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX20567,Zapotitlán Lagunas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX20568,Zapotitlán Palmas,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX12072,Zapotitlán Tablas,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX13082,Zapotlán de Juárez,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX14123,Zapotlán del Rey,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14023,Zapotlán el Grande,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX14124,Zapotlanejo,Location/MX14,ADMIN_STRUCTURE,Jurisdiction
+MX05038,Zaragoza,Location/MX05,ADMIN_STRUCTURE,Jurisdiction
+MX21211,Zaragoza,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX24055,Zaragoza,Location/MX24,ADMIN_STRUCTURE,Jurisdiction
+MX30199,Zaragoza,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21212,Zautla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX13083,Zempoala,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX30200,Zentla,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX12038,Zihuatanejo de Azueta,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX21213,Zihuateutla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX29037,Ziltlaltépec de Trinidad Sánchez Santos,Location/MX29,ADMIN_STRUCTURE,Jurisdiction
+MX13084,Zimapán,Location/MX13,ADMIN_STRUCTURE,Jurisdiction
+MX20570,Zimatlán de Álvarez,Location/MX20,ADMIN_STRUCTURE,Jurisdiction
+MX07111,Zinacantán,Location/MX07,ADMIN_STRUCTURE,Jurisdiction
+MX15118,Zinacantepec,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX21214,Zinacatepec,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX16109,Zináparo,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16110,Zinapécuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX16111,Ziracuaretiro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX12073,Zirándaro,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX16112,Zitácuaro,Location/MX16,ADMIN_STRUCTURE,Jurisdiction
+MX12074,Zitlala,Location/MX12,ADMIN_STRUCTURE,Jurisdiction
+MX30201,Zongolica,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21215,Zongozotla,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30202,Zontecomatlán de López y Fuentes,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX21216,Zoquiapan,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX21217,Zoquitlán,Location/MX21,ADMIN_STRUCTURE,Jurisdiction
+MX30203,Zozocolco de Hidalgo,Location/MX30,ADMIN_STRUCTURE,Jurisdiction
+MX15119,Zumpahuacán,Location/MX15,ADMIN_STRUCTURE,Jurisdiction
+MX15120,Zumpango,Location/MX15,ADMIN_STRUCTURE,Jurisdiction

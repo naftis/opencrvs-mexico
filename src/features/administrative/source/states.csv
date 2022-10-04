@@ -1,5 +1,33 @@
 statisticalID,name,partOf,code,physicalType
-AWn3s2RqgAN,Central,Location/0,ADMIN_STRUCTURE,Jurisdiction
-KozcEjeTyuD,Sulaka,Location/0,ADMIN_STRUCTURE,Jurisdiction
-B1u1bVtIA92,Pualula,Location/0,ADMIN_STRUCTURE,Jurisdiction
-dbTLdTi7s8F,Chuminga,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX01,Aguascalientes,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX02,Baja California,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX03,Baja California Sur,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX04,Campeche,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX07,Chiapas,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX08,Chihuahua,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX05,Coahuila de Zaragoza,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX06,Colima,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX09,Distrito Federal,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX10,Durango,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX11,Guanajuato,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX12,Guerrero,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX13,Hidalgo,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX14,Jalisco,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX15,México,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX16,Michoacán de Ocampo,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX17,Morelos,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX18,Nayarit,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX19,Nuevo León,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX20,Oaxaca,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX21,Puebla,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX22,Querétaro de Arteaga,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX23,Quintana Roo,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX24,San Luis Potosí,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX25,Sinaloa,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX26,Sonora,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX27,Tabasco,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX28,Tamaulipas,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX29,Tlaxcala,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX30,Veracruz de Ignacio de la Llave,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX31,Yucatán,Location/0,ADMIN_STRUCTURE,Jurisdiction
+MX32,Zacatecas,Location/0,ADMIN_STRUCTURE,Jurisdiction
