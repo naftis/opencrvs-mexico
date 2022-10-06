@@ -33,7 +33,7 @@ jobs:
         with:
           repository: 'opencrvs/opencrvs-core'
           path: './opencrvs-core'
-          ref: ${{ github.event.inputs.core-image-tag }}
+          ref: fee97fec3d3c45080e123cfd5e6ba9b348e9a69a
       - name: Clone country config resource package
         uses: actions/checkout@v3
         with:
