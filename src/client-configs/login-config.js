@@ -12,12 +12,11 @@
 window.config = {
   AUTH_API_URL: 'http://localhost:4040/',
   CONFIG_API_URL: 'http://localhost:2021',
-  COUNTRY: 'FAR',
+  COUNTRY: 'MEX',
   LANGUAGES: 'en,fr',
   AVAILABLE_LANGUAGES_SELECT: 'en:English,fr:Français',
   CLIENT_APP_URL: 'http://localhost:3000/',
   COUNTRY_CONFIG_URL: 'http://localhost:3040',
-  SENTRY:
-    'https://f892d643aab642108f44e2d1795706bc@o309867.ingest.sentry.io/1774604',
+  SENTRY: null,
   LOGROCKET: ''
 }
